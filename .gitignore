@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Metadata gerada pelo projeto
+noticia.json
+noticias.xlsx
+
+# Arquivos temporários de sistema/IDE
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+
+# Configuracoes do VSCode
+.vscode/
